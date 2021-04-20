@@ -5,7 +5,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-node-14-alpine": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/rv-node-15-alpine": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/rv-python-3.7-slim": "1.0.2",
-    "redventures-container-pipeline-docker.jfrog.io/rv-python-3.8-slim": "1.0.1",
+    "redventures-container-pipeline-docker.jfrog.io/rv-python-3.8-slim": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/rv-python-3.9-slim": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-golang-1.15-alpine": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/rv-golang-1.16-alpine": "1.0.2"
