@@ -20,6 +20,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-runtime-5-alpine": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-runtime-5-slim": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-3.1-alpine": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-3.1-buster": "1.0.0"
+    "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-3.1-buster": "1.0.0",
+    "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-5-alpine": "1.0.0"
   }
 }
