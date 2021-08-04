@@ -36,6 +36,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-golang-1.16-buster": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-java-11-jdk-buster-newrelic": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-java-15-jdk-buster-newrelic": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-java-16-jdk-buster-newrelic": "1.0.0"
+    "redventures-container-pipeline-docker.jfrog.io/rv-java-16-jdk-buster-newrelic": "1.0.0",
+    "redventures-container-pipeline-docker.jfrog.io/rv-java-18-jdk-buster-newrelic": "1.0.0"
   }
 }
