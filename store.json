@@ -42,7 +42,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-golang-1.17-alpine": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-golang-1.17-bullseye-slim": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-3.1-bullseye": "1.0.3",
-    "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-aspnet-6-alpine": "1.0.6",
+    "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-aspnet-6-alpine": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-aspnet-6-slim": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-runtime-6-alpine": "1.0.1",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-runtime-6-slim": "1.0.0",
