@@ -44,7 +44,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-3.1-bullseye": "1.0.3",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-aspnet-6-alpine": "1.0.3",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-aspnet-6-slim": "1.0.2",
-    "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-runtime-6-alpine": "1.0.2",
+    "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-runtime-6-alpine": "1.0.3",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-runtime-6-slim": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-6-alpine": "1.0.2",
     "redventures-container-pipeline-docker.jfrog.io/rv-dotnet-sdk-6-slim": "1.0.2",
