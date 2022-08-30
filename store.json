@@ -52,6 +52,7 @@
     "redventures-container-pipeline-docker.jfrog.io/rv-php-8.1-buster-minimal": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-php-8.1-fpm-buster-minimal": "1.0.0",
     "redventures-container-pipeline-docker.jfrog.io/rv-php-8.1-fpm-alpine": "1.0.0",
-    "redventures-container-pipeline-docker.jfrog.io/rv-rv-node-14-buster": "1.0.4"
+    "redventures-container-pipeline-docker.jfrog.io/rv-rv-node-14-buster": "1.0.4",
+    "redventures-container-pipeline-docker.jfrog.io/rv-golang-1.19-alpine": "1.0.0"
   }
 }
